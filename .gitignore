@@ -1,6 +1,11 @@
-Library/*
-Logs/*
-Temp/*
+Syahrul Robbiansyah - 149251970101-161 - Pong/Library/*
+Syahrul Robbiansyah - 149251970101-161 - Pong/Logs/*
+Syahrul Robbiansyah - 149251970101-161 - Pong/Temp/*
+Syahrul Robbiansyah - 149251970101-161 - Pong/.vs/*
+Syahrul Robbiansyah - 149251970101-161 - Pong/obj/*
+.vs/*
 .vsconfig
 *.slns
+obj/*
+.csproj
 test.txt
