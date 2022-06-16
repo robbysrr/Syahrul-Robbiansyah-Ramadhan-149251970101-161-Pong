@@ -62,6 +62,8 @@
     <Compile Include="Assets\Scripts\ScoreManager.cs" />
     <Compile Include="Assets\Scripts\ScoreController.cs" />
     <Compile Include="Assets\Scripts\GoalController.cs" />
+    <Compile Include="Assets\Scripts\PUSpeedUpController.cs" />
+    <Compile Include="Assets\Scripts\PowerUpManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
